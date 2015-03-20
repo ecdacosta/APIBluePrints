@@ -1,0 +1,9 @@
+# PolicyTypes
+# Group http://localhost:8089
+## PolicyTypes [/rating/policyTypes{?state}]
++ Parameters
+    + state = `` (string, optional)
+
+### PolicyTypes [GET]
++ Request Request 1
+
